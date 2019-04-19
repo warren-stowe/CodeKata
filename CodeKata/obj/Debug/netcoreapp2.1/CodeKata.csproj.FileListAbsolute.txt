@@ -1,0 +1,11 @@
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKata\bin\Debug\netcoreapp2.1\CodeKata.deps.json
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKata\bin\Debug\netcoreapp2.1\CodeKata.runtimeconfig.json
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKata\bin\Debug\netcoreapp2.1\CodeKata.runtimeconfig.dev.json
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKata\bin\Debug\netcoreapp2.1\CodeKata.dll
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKata\bin\Debug\netcoreapp2.1\CodeKata.pdb
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKata\obj\Debug\netcoreapp2.1\CodeKata.csprojAssemblyReference.cache
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKata\obj\Debug\netcoreapp2.1\CodeKata.csproj.CoreCompileInputs.cache
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKata\obj\Debug\netcoreapp2.1\CodeKata.AssemblyInfoInputs.cache
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKata\obj\Debug\netcoreapp2.1\CodeKata.AssemblyInfo.cs
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKata\obj\Debug\netcoreapp2.1\CodeKata.dll
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKata\obj\Debug\netcoreapp2.1\CodeKata.pdb

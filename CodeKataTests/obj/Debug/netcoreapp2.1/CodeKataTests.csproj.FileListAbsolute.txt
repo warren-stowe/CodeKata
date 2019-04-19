@@ -1,0 +1,17 @@
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKataTests\obj\Debug\netcoreapp2.1\CodeKataTests.csprojAssemblyReference.cache
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKataTests\obj\Debug\netcoreapp2.1\CodeKataTests.csproj.CoreCompileInputs.cache
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKataTests\obj\Debug\netcoreapp2.1\CodeKataTests.AssemblyInfoInputs.cache
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKataTests\obj\Debug\netcoreapp2.1\CodeKataTests.AssemblyInfo.cs
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKataTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKataTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKataTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKataTests\bin\Debug\netcoreapp2.1\CodeKataTests.deps.json
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKataTests\bin\Debug\netcoreapp2.1\CodeKataTests.runtimeconfig.json
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKataTests\bin\Debug\netcoreapp2.1\CodeKataTests.runtimeconfig.dev.json
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKataTests\bin\Debug\netcoreapp2.1\CodeKataTests.dll
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKataTests\bin\Debug\netcoreapp2.1\CodeKataTests.pdb
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKataTests\bin\Debug\netcoreapp2.1\CodeKata.dll
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKataTests\bin\Debug\netcoreapp2.1\CodeKata.pdb
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKataTests\obj\Debug\netcoreapp2.1\CodeKataTests.csproj.CopyComplete
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKataTests\obj\Debug\netcoreapp2.1\CodeKataTests.dll
+C:\Users\Warren Stowe\source\repos\CodeKata\CodeKataTests\obj\Debug\netcoreapp2.1\CodeKataTests.pdb
