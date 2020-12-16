@@ -10,6 +10,10 @@ namespace CodeKata
     {
         static void Main(string[] args)
         {
+            bool s = true;
+            Boolean t = true;
+
+            
 
             int number = 0;
 

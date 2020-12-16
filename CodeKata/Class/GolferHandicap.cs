@@ -16,11 +16,11 @@ namespace CodeKata.Class
             {
                 if (data[i][0] >= 55 && data[i][1] >= 7)
                 {
-                    result[i] += "Senior";
+                    result[i] = "Senior";
                 }
                 else
                 {
-                    result[i] += "Open";
+                    result[i] = "Open";
                 }
             }
 

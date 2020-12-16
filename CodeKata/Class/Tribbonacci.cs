@@ -8,7 +8,7 @@ namespace CodeKata.Class
     {
         public static int GetTrib(int[] sequence, int number)
         {
-
+            //TODO: Not sure which version of Tribbonacci this is solving.
             if (!Tribbonacci.CheckForNegatives(sequence) || number < 4)
             {
                 return -1;

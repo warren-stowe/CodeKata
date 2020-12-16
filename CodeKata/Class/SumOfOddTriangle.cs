@@ -18,7 +18,7 @@ namespace CodeKata.Class
             //Calculate the sum of a given row of long n.
 
             // The starting number is equal to n * (n-1) + 1, so create a variable at the starting number.
-            // Add this numbr to the result variable.
+            // Add this number to the result variable.
             long start = (n * (n - 1)) + 1;
             long result = start;
 

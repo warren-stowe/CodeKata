@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Warren Stowe\\.nuget\\packages\\": {},
+    "C:\\Users\\Warren\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Warren Stowe\\source\\repos\\CodeKata\\CodeKata\\CodeKata.csproj",
+      "projectUniqueName": "C:\\Users\\Warren\\source\\repos\\CodeKata\\CodeKata\\CodeKata.csproj",
       "projectName": "CodeKata",
-      "projectPath": "C:\\Users\\Warren Stowe\\source\\repos\\CodeKata\\CodeKata\\CodeKata.csproj",
-      "packagesPath": "C:\\Users\\Warren Stowe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Warren Stowe\\source\\repos\\CodeKata\\CodeKata\\obj\\",
+      "projectPath": "C:\\Users\\Warren\\source\\repos\\CodeKata\\CodeKata\\CodeKata.csproj",
+      "packagesPath": "C:\\Users\\Warren\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Warren\\source\\repos\\CodeKata\\CodeKata\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Warren Stowe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Warren\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
